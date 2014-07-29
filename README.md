@@ -8,14 +8,14 @@ Just for fun: Japanese kanji recreated with Korean hangul.
 Format
 ------
 
-\<hangul\>\<space\>\<kanji\>
+\<kanji\>:\<space\>\<hangul\>
 
 Examples
 -------
 
-몸 呂  
-슴 合  
-믁 号
+呂: 몸
+合: 슴
+号: 믁
 
 Why?
 ----
